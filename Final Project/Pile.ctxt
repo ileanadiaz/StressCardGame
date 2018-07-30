@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pile
+comment1.params=
+comment1.target=Pile()
+comment2.params=c
+comment2.target=void\ add(Card)
+comment3.params=index
+comment3.target=Card\ remove(int)
+comment4.params=c
+comment4.target=Card\ getCard(int)
+comment5.params=
+comment5.target=boolean\ correctSize()
+comment6.params=
+comment6.target=int\ size()
+comment7.params=
+comment7.target=boolean\ isDone()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
